@@ -1,0 +1,29 @@
+.header {
+    color: black;
+}
+
+.header-text {
+    font-size: 15pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+.main {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.main_image {
+    height: 150px;
+    width: 150px;
+    justify-content: center;
+}
+
+.footer {
+    color: darkblue;
+    font-size: 15pt;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
